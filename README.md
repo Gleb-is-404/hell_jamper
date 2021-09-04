@@ -1,2 +1,2 @@
 # hell_jamper
- my first project in the field of programming
+ he essence of the game is to dodge
